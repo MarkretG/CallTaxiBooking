@@ -1,5 +1,4 @@
 package callTaxi;
-import javax.xml.bind.annotation.adapters.CollapsedStringAdapter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
